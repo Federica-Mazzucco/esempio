@@ -13,3 +13,5 @@ Commit: write a message that explains what you did and changed. Example: git com
 Push: this operation puts the work on GitHub by "pushing" it to Remote (kind of a duplicate of our repo that lives on a remote server. To know the remote's name: git remote. Usually the remote is named "origin". All good? Push the work on the remote: git push origin master.
 Go to the repo on the GitHub web page (your profile), and the pushed files should be there.
 Please let this shit work, I have stuff to do (T_T)
+
+I love :pizza: and :sunflower:

@@ -31,3 +31,12 @@ library(esquisse)
 ```
 
 Si tratta chiaramente di addizioni. Ah yes, the floor is made of floor.
+
+## Sottrazioni
+
+Qual'è la differenza di età fra me e Matti?
+
+```{r}
+24-17
+```
+

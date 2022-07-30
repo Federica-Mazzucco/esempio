@@ -17,10 +17,15 @@ Example repository to understand how this shit works
 Please let this shit work, I have stuff to do (T_T)
 
 ## List of commands I used
+
 git status
+
 git add CalcoliImportanti.Rmd CalcoliImportanti.html
+
 git status (gives list of changes to be committed)
+
 git commit -m "my first commit on Git"
+
 git push origin main
 
 

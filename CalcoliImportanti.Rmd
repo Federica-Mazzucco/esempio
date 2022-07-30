@@ -1,0 +1,33 @@
+---
+title: "Calcoli"
+author: "Federica Mazzucco"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE}
+library(psych)
+library(ggplot2)
+library(rmarkdown)
+library(tidyverse)
+library(esquisse)
+```
+
+
+## Addizioni
+
+```{r}
+3+4
+```
+```{r}
+120+120
+```
+```{r}
+17+24
+```
+
+Si tratta chiaramente di addizioni. Ah yes, the floor is made of floor.
